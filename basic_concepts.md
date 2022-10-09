@@ -29,4 +29,14 @@ Here are the main options for fixing this problem:
 2. Feed better features to the learning algorithm (feature engineering).
 3. Reduce the constraints on the model (e.g., reduce the regularization hyperparameter).
 
+## Frame the problem
+The first question to ask your boss is what exactly the business objective is.
+The next question to ask your boss is what the current solution looks like (if
+any)
+
+**NOTE:** when you have only 1 output in a regression task, its called a **univariate regression** problem. 
+when you have multiple outputs, its called a **multivariate regression** problem.
+When multiple input features are used for a regression task, it is called a **multiple regression** problem
+
+
 
